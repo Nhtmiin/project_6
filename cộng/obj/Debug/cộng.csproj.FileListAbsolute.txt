@@ -1,0 +1,21 @@
+H:\application\Bài 1\cộng\cộng\bin\Debug\cộng.exe.config
+H:\application\Bài 1\cộng\cộng\bin\Debug\cộng.exe
+H:\application\Bài 1\cộng\cộng\bin\Debug\cộng.pdb
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.csproj.AssemblyReference.cache
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.Form1.resources
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.Properties.Resources.resources
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.csproj.GenerateResource.cache
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.csproj.CoreCompileInputs.cache
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.exe
+H:\application\Bài 1\cộng\cộng\obj\Debug\cộng.pdb
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\bin\Debug\cộng.exe.config
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\bin\Debug\cộng.exe
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\bin\Debug\cộng.pdb
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.exe.config
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.Form1.resources
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.Properties.Resources.resources
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.exe
+C:\Users\pc\Documents\Zalo Received Files\application\application\Bài 1\cộng\cộng\obj\Debug\cộng.pdb
