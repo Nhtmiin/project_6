@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\application\\B\u00E0i 2\\reverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E19A2-E549-4F0A-AA0B-381C5EAB1577}|reverse\\reverse.csproj|h:\\application\\b\u00E0i 2\\reverse\\reverse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24E19A2-E549-4F0A-AA0B-381C5EAB1577}|reverse\\reverse.csproj|solutionrelative:reverse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E19A2-E549-4F0A-AA0B-381C5EAB1577}|reverse\\reverse.csproj|h:\\application\\b\u00E0i 2\\reverse\\reverse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B24E19A2-E549-4F0A-AA0B-381C5EAB1577}|reverse\\reverse.csproj|solutionrelative:reverse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\application\\B\u00E0i 2\\reverse\\reverse\\Form1.cs",
+              "RelativeDocumentMoniker": "reverse\\Form1.cs",
+              "ToolTip": "H:\\application\\B\u00E0i 2\\reverse\\reverse\\Form1.cs",
+              "RelativeToolTip": "reverse\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:14:20.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\application\\B\u00E0i 2\\reverse\\reverse\\Form1.cs",
+              "RelativeDocumentMoniker": "reverse\\Form1.cs",
+              "ToolTip": "H:\\application\\B\u00E0i 2\\reverse\\reverse\\Form1.cs [Design]",
+              "RelativeToolTip": "reverse\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:12:11.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
