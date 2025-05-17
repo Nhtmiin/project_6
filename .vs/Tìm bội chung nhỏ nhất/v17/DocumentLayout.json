@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\application\\B\u00E0i 2\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8D0119-99F3-4790-A1C2-E4F0BA108AFD}|T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t.csproj|h:\\application\\b\u00E0i 2\\t\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\t\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8D0119-99F3-4790-A1C2-E4F0BA108AFD}|T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t.csproj|solutionrelative:t\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8D0119-99F3-4790-A1C2-E4F0BA108AFD}|T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t.csproj|h:\\application\\b\u00E0i 2\\t\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\t\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE8D0119-99F3-4790-A1C2-E4F0BA108AFD}|T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t.csproj|solutionrelative:t\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\application\\B\u00E0i 2\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs",
+              "RelativeDocumentMoniker": "T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs",
+              "ToolTip": "H:\\application\\B\u00E0i 2\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs",
+              "RelativeToolTip": "T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:11:06.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\application\\B\u00E0i 2\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs",
+              "RelativeDocumentMoniker": "T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs",
+              "ToolTip": "H:\\application\\B\u00E0i 2\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs [Design]",
+              "RelativeToolTip": "T\u00ECm b\u1ED9i chung nh\u1ECF nh\u1EA5t\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:06:27.62Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
