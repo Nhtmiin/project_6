@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Zalo Received Files\\application\\application\\B\u00E0i 1\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11CDC635-6E81-4404-B76D-DE09EE9197D0}|T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n.csproj|c:\\users\\pc\\documents\\zalo received files\\application\\application\\b\u00E0i 1\\t\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\t\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CDC635-6E81-4404-B76D-DE09EE9197D0}|T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n.csproj|solutionrelative:t\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CDC635-6E81-4404-B76D-DE09EE9197D0}|T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n.csproj|C:\\Users\\pc\\Documents\\Zalo Received Files\\application\\application\\B\u00E0i 1\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\t\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11CDC635-6E81-4404-B76D-DE09EE9197D0}|T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n.csproj|solutionrelative:t\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Zalo Received Files\\application\\application\\B\u00E0i 1\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs",
+              "RelativeDocumentMoniker": "T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Zalo Received Files\\application\\application\\B\u00E0i 1\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs",
+              "RelativeToolTip": "T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:15:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Zalo Received Files\\application\\application\\B\u00E0i 1\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs",
+              "RelativeDocumentMoniker": "T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Zalo Received Files\\application\\application\\B\u00E0i 1\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs [Design]",
+              "RelativeToolTip": "T\u00ECm s\u1ED1 l\u1EDBn h\u01A1n\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:14:34.701Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
