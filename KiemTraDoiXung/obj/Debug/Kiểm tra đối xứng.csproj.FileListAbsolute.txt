@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\bin\Debug\Kiểm tra số nguyên tố.exe.config
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\bin\Debug\Kiểm tra số nguyên tố.exe
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\bin\Debug\Kiểm tra số nguyên tố.pdb
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm tra đối xứng.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm_tra_số_nguyên_tố.Form1.resources
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm_tra_số_nguyên_tố.Properties.Resources.resources
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm tra đối xứng.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm tra đối xứng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm tra số nguyên tố.exe
+C:\Users\Administrator\Documents\application\Bài 2\Kiểm tra số nguyên tố\Kiểm tra số nguyên tố\obj\Debug\Kiểm tra số nguyên tố.pdb
