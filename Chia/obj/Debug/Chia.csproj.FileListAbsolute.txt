@@ -1,0 +1,10 @@
+H:\application\Bài 1\Chia\Chia\bin\Debug\Chia.exe.config
+H:\application\Bài 1\Chia\Chia\bin\Debug\Chia.exe
+H:\application\Bài 1\Chia\Chia\bin\Debug\Chia.pdb
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.csproj.AssemblyReference.cache
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.Form1.resources
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.Properties.Resources.resources
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.csproj.GenerateResource.cache
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.csproj.CoreCompileInputs.cache
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.exe
+H:\application\Bài 1\Chia\Chia\obj\Debug\Chia.pdb
