@@ -1,0 +1,10 @@
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\bin\Debug\Kiểm tra số chính phương.exe.config
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\bin\Debug\Kiểm tra số chính phương.exe
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\bin\Debug\Kiểm tra số chính phương.pdb
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.csproj.AssemblyReference.cache
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm_tra_số_chính_phương.Form1.resources
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm_tra_số_chính_phương.Properties.Resources.resources
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.csproj.GenerateResource.cache
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.csproj.CoreCompileInputs.cache
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.exe
+H:\application\Bài 2\Kiểm tra số chính phương\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.pdb

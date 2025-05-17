@@ -1,0 +1,10 @@
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\bin\Debug\Kiểm tra số chính phương.exe.config
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\bin\Debug\Kiểm tra số chính phương.exe
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\bin\Debug\Kiểm tra số chính phương.pdb
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Giải phương trình bậc 1.csproj.AssemblyReference.cache
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Kiểm_tra_số_chính_phương.Form1.resources
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Kiểm_tra_số_chính_phương.Properties.Resources.resources
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Giải phương trình bậc 1.csproj.GenerateResource.cache
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Giải phương trình bậc 1.csproj.CoreCompileInputs.cache
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.exe
+C:\Users\Cam Y\Documents\application\Bài 2\Phuongtrinhbacnhat\Kiểm tra số chính phương\obj\Debug\Kiểm tra số chính phương.pdb
