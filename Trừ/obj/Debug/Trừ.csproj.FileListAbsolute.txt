@@ -1,0 +1,10 @@
+H:\application\Bài 1\Trừ\Trừ\bin\Debug\Trừ.exe.config
+H:\application\Bài 1\Trừ\Trừ\bin\Debug\Trừ.exe
+H:\application\Bài 1\Trừ\Trừ\bin\Debug\Trừ.pdb
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.csproj.AssemblyReference.cache
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.Form1.resources
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.Properties.Resources.resources
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.csproj.GenerateResource.cache
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.csproj.CoreCompileInputs.cache
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.exe
+H:\application\Bài 1\Trừ\Trừ\obj\Debug\Trừ.pdb

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\application\\B\u00E0i 1\\Tr\u1EEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1524A6DF-4144-44FA-BDDD-28276CB7A507}|Tr\u1EEB\\Tr\u1EEB.csproj|h:\\application\\b\u00E0i 1\\tr\u1EEB\\tr\u1EEB\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524A6DF-4144-44FA-BDDD-28276CB7A507}|Tr\u1EEB\\Tr\u1EEB.csproj|solutionrelative:tr\u1EEB\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524A6DF-4144-44FA-BDDD-28276CB7A507}|Tr\u1EEB\\Tr\u1EEB.csproj|h:\\application\\b\u00E0i 1\\tr\u1EEB\\tr\u1EEB\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1524A6DF-4144-44FA-BDDD-28276CB7A507}|Tr\u1EEB\\Tr\u1EEB.csproj|solutionrelative:tr\u1EEB\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\application\\B\u00E0i 1\\Tr\u1EEB\\Tr\u1EEB\\Form1.cs",
+              "RelativeDocumentMoniker": "Tr\u1EEB\\Form1.cs",
+              "ToolTip": "H:\\application\\B\u00E0i 1\\Tr\u1EEB\\Tr\u1EEB\\Form1.cs",
+              "RelativeToolTip": "Tr\u1EEB\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:54:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\application\\B\u00E0i 1\\Tr\u1EEB\\Tr\u1EEB\\Form1.cs",
+              "RelativeDocumentMoniker": "Tr\u1EEB\\Form1.cs",
+              "ToolTip": "H:\\application\\B\u00E0i 1\\Tr\u1EEB\\Tr\u1EEB\\Form1.cs [Design]",
+              "RelativeToolTip": "Tr\u1EEB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:50:31.982Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
